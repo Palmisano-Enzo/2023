@@ -1,3 +1,11 @@
 .ipynb_checkpoints
 *.DS_Store
 *.DS_Store?
+.part*
+._SUCCESS.crc
+_SUCCESS
+Aircraft_Glossary.json
+Bombing_Operations.json
+part-00*
+score.json
+messages.json
